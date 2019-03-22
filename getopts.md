@@ -4,7 +4,7 @@ However, new gens are usually cycled to ```agrc``` and ```argv```.
 Save some time and use the built-in. :)
 
 ```bash
- while getopts df: flag
+ while getopt df: flag
     do
         case $flag in
 
