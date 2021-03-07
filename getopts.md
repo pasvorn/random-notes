@@ -1,3 +1,4 @@
+#bash
 An example of how to use ```getopts``` shell built-in command to process shell arguments. 
 The use of ```getopts``` is actually well-known with old-timers. 
 However, new gens are usually cycled to ```agrc``` and ```argv```. 
